@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    color: rgb(56, 56, 218);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(20, 19, 19);
+    padding: 15px;
+    margin: 15px;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 3px 6px  rgb(187, 192, 195);
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 30px;
+}
+h4{
+    font-size: 30px;
+    text-shadow: 2px 4px  rgb(187, 192, 195);
+}
+h5{
+    font-size: 40px;
+    visibility: hidden;
+}
+#tercerParrafo{
+    border: 4px solid rgba(189, 189, 189, 0.733) ;
+}
+#cuartoParrafo{
+    border: 4px solid rgba(189, 189, 189, 0.733) ;
+}
+#quintoParrafo{
+    border: 4px solid rgba(189, 189, 189, 0.733) ;
+}
+#sextoParrafo{
+    border: 4px solid rgba(189, 189, 189, 0.733) ;
+}
+img{
+    height: 300px;
+    width: 300px ;
+}
+#parrafosGenerales{
+    padding: 10px;
+    margin: 10px;
+}
+ul{
+    list-style: outside circle;
+}
+
